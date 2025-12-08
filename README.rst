@@ -31,7 +31,7 @@ Basic Hello-World code:
 
 Check out the full documentation on `ReadTheDocs <https://rsinstrument.readthedocs.io/>`_.
 
-Our public `Rohde&Schwarz Github repository <https://github.com/Rohde-Schwarz/Examples/tree/main/Misc/Python/RsInstrument>`_ hosts many examples using this library.
+Our public `Rohde&Schwarz Github repository <https://github.com/Rohde-Schwarz/Examples>`_ hosts many examples using this library.
 If you're looking for examples with specific instruments, check out the ones for
 `Oscilloscopes <https://github.com/Rohde-Schwarz/Examples/tree/main/Oscilloscopes/Python/RsInstrument>`_,
 `Powersensors <https://github.com/Rohde-Schwarz/Examples/tree/main/Powersensors/Python/RsInstrument>`_,
